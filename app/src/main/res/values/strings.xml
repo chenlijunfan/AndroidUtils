@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidUtils</string>
+    <string name="main_toolbar_title_top">title_top</string>
+    <string name="ToolbarPopupTheme">popupThem</string>
+</resources>

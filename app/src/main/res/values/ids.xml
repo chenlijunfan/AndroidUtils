@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="statusbarutil_fake_status_bar_view" type="id" />
+    <item name="fake_status_bar_view_id" type="id" />
+    <item name="fake_translucent_view_id" type="id" />
+    <item name="TAG_KEY_HAVE_SET_OFFSET" type="id" />
+</resources>
